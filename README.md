@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* 
+
+<script src="https://kit.fontawesome.com/1ccc9ca859.js" crossorigin="anonymous"></script>
